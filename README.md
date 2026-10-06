@@ -1,2 +1,2 @@
 # Hello-World
-About my first webpage,Welcome to my website and First webpage created using HTML and CSS
+My first webpage created using HTML and CSS with a header, navigation bar, Hello World message, button, and footer.
